@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Prompt',sans-serif;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+
+    background-color: #dcdcdc;
+    color: #000;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
